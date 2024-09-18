@@ -11989,6 +11989,7 @@ p {
 
 .hero-scene {
   position: relative;
+  margin-bottom: 15px;
 }
 .hero-scene::before {
   content: "";
@@ -12034,4 +12035,8 @@ p {
   left: 50%;
   transform: translate(-50%, -50%);
   opacity: 0;
+}
+
+.form-label {
+  color: #906427;
 }/*# sourceMappingURL=main.css.map */
