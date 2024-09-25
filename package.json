@@ -1,12 +1,13 @@
 {
-    "dependencies": {
-        "bootstrap": "^5.3.3",
-        "bootstrap-icons": "^1.11.3"
-    },
+
     "name": "quaiantiquerestaurantfront_v2",
     "version": "1.0.0",
     "description": "Ce site est un site vitrine pour le restaurant Quai Antique",
     "main": "index.js",
+    "dependencies": {
+        "bootstrap": "^5.3.3",
+        "bootstrap-icons": "^1.11.3"
+    },
     "devDependencies": {},
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +20,6 @@
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/dum910/QuaiAntiqueRestaurantFront_v2/issues"
-    }
+    },
+    "homepage": "https://github.com/dum910/QuaiAntiqueRestaurantFront_v2#readme"
 }
